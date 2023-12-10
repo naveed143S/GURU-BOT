@@ -11,7 +11,7 @@ global.owner = [
   ['6281255369012', 'Ash', true], 
   [''] 
 ] //Number of owners
-
+naveed
 //global.pairingNumber = "" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
